@@ -62,6 +62,15 @@ This project is deployed in a **North America** region's data center with the fo
 ## Future Work
 
 The goal is to continue transitioning from traditional SysAdmin roles to more advanced **DevOps**, **Cloud**, and **SRE** concepts.
+# 📘 Project-Nautilus-KodeKloud-Engineers
+
+This repository documents my journey through the **KodeKloud Initiative Program**, where I am working as a **System Administrator (DevOps Engineer in Training)**. My chosen tools for the program are **Git** and **Kubernetes**, and this repo serves as a log of all related tasks completed during the training.
+
+
+## 📌 Notes
+- I will update this document daily as I complete new tasks.
+- This serves as a reflection of progress and a knowledge base for revision.
+
 
 ## License
 
