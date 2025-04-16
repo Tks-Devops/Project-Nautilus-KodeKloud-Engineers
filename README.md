@@ -1,6 +1,6 @@
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
-
 ![License](https://img.shields.io/github/license/Tks-Devops/Project-Nautilus-KodeKloud-Engineers)
+
 # Project-Nautilus-KodeKloud-Engineers
 "This repository demonstrates the system architecture and deployment of the Nautilus application, a project conducted as part of the KodeKloud Initiative Program to build foundational DevOps and SysAdmin skills."
 # Project Nautilus
