@@ -1,6 +1,9 @@
 # Project-Nautilus-KodeKloud-Engineers
 "This repository demonstrates the system architecture and deployment of the Nautilus application, a project conducted as part of the KodeKloud Initiative Program to build foundational DevOps and SysAdmin skills."
 # Project Nautilus
+![Project Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/github/license/YOUR-USERNAME/Project-Nautilus-KodeKloud-Engineers)
+
 
 **Project Name**: Nautilus  
 **Program**: KodeKloud Initiative Program  
