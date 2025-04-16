@@ -14,7 +14,7 @@ This repository documents my journey through the **KodeKloud Initiative Program*
 ![image](https://github.com/user-attachments/assets/82bef26a-dfbb-4033-b0c9-2ac17226c57a)
 ## 🛠️ Daily Task Log
 
-### Day 1 - [Date]
+### Day 1 - [Git]
 **Task**: The Nautilus development team has provided requirements to the DevOps team for a new application development project, specifically requesting the establishment of a Git repository. Follow the instructions below to create the Git repository on the Storage server in the Stratos DC:
 
 
@@ -46,7 +46,7 @@ ststor01	172.16.238.15	ststor01.stratos.xfusioncorp.com	natasha	Bl@kW	Nautilus S
 
 ---
 
-### Day 2 - [Date]
+### Day 1 - [K8S]
 **Task**: Created a sample Kubernetes Pod definition  
 **Commands/Tools**: `kubectl`, `pod.yaml`  
 **Learning**: Pod lifecycle, YAML syntax  
