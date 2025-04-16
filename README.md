@@ -12,6 +12,8 @@
 Project Nautilus is the Naval subdivision of xFusionCorp Industries. The project aims to help the Naval forces make smart procurement decisions for their manned or unmanned maritime systems while ensuring that the operational requirements are met. Additionally, it aims to improve operational support, safety, and the life extension of existing systems, all while reducing the cost of ownership.
 
 ## Project Architecture
+![image](https://github.com/user-attachments/assets/8f49a8f4-1b57-4dce-a1aa-2485c8acac07)
+
 
 The Nautilus application uses a **three-tier architecture**:
 
