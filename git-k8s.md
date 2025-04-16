@@ -29,12 +29,12 @@ Create a bare repository named /opt/media.git (ensure exact name usage).
 SSH Access
 ssh natasha@ststor01.stratos.xfusioncorp.com
 # Password: Bl@kW
-**Install Git
-sudo yum install git -y
-**Create Bare Repository
-sudo git init --bare /opt/media.git
-**Verify Repository
-ls /opt/media.git
+**Install Git**:
+sudo yum install git -y:
+**Create Bare Repository**:
+sudo git init --bare /opt/media.git:
+**Verify Repository**:
+ls /opt/media.git:
 
 **🖥️ Server Info Table (for reference)
 
