@@ -25,6 +25,22 @@ Utilize yum to install the git package on the Storage Server.
 Create a bare repository named /opt/media.git (ensure exact name usage). 
 **Commands/Tools**: `git init`, `.gitignore`, README setup  
 **Learning**: Understood repo structure & Git basics  
+**solution**🧩 Steps Performed
+SSH Access
+ssh natasha@ststor01.stratos.xfusioncorp.com
+# Password: Bl@kW
+Install Git
+sudo yum install git -y
+Create Bare Repository
+sudo git init --bare /opt/media.git
+Verify Repository
+ls /opt/media.git
+
+**🖥️ Server Info Table (for reference)
+
+Server Name	IP Address	Hostname	User	Password	Purpose
+ststor01	172.16.238.15	ststor01.stratos.xfusioncorp.com	natasha	Bl@kW	Nautilus Storage Server
+
 
 
 
